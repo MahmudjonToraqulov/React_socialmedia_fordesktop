@@ -1,8 +1,5 @@
 .homeContainer
 {
     display: flex;
-    width: 100%;
-    text-decoration: none;
-    aligb-items: center;
-    justify-content: center;
+    width: 100%; 
 }
